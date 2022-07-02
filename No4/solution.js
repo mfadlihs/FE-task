@@ -34,7 +34,7 @@ const data1 = [
 
 const data2 = [
 	{
-		id: '12344',
+		id: '1234',
 		items: [
 			{
 				color: 'white',
